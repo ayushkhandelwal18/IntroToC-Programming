@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ASS.C": "cpp",
+        "ASSIGNMENT1.C": "cpp",
+        "INSERTIONSORT.C": "cpp",
+        "3_INSERTION.C": "cpp",
+        "P1.C": "cpp",
+        "GPT.C": "cpp",
+        "DELETION.C": "cpp",
+        "5_circular-linkedlist": "c",
+        "6_DOUBLE.C": "cpp",
+        "8_PARANTHESIS.C": "cpp",
+        "P6.C": "cpp",
+        "P7.C": "cpp",
+        "P11.C": "cpp",
+        "P12.C": "cpp",
+        "BSEARCHTREE.C": "cpp"
+    }
+}
